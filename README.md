@@ -6,7 +6,7 @@ I'm using this project to learn and experiment with enemy behavior, AI logic, co
 
 ## 📌 Project Status
 
-**In Development — Currently Following Part 7 of the Course**
+**In Development — Currently Following Part 8 of the Course**
 
 This project is still under development. Features and systems are being implemented and tested as I progress through the course.
 
