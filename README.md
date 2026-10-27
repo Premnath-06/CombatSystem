@@ -6,7 +6,7 @@ I'm using this project to learn and experiment with enemy behavior, AI logic, co
 
 ## 📌 Project Status
 
-**In Development — Currently Following Part 8 of the Course**
+**In Development — Currently Following Part 9 of the Course**
 
 This project is still under development. Features and systems are being implemented and tested as I progress through the course.
 
@@ -92,9 +92,9 @@ See the [GitHub Issues](../../issues) page for updates and troubleshooting.
 
 - [x] Create the Unreal Engine project repository.
 - [x] Begin following the Smart Enemy AI course.
-- [ ] Continue implementing features beyond Part 7.
-- [ ] Investigate and fix player ragdoll behavior.
-- [ ] Investigate and fix enemy ragdoll behavior.
+- [x] Continue implementing features beyond Part 7.
+- [x] Investigate and fix player ragdoll behavior.
+- [x] Investigate and fix enemy ragdoll behavior.
 - [ ] Document additional features, fixes, and progress.
 
 ## 📸 Screenshots and Videos
