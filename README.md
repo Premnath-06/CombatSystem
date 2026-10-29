@@ -60,7 +60,7 @@ These resources support the main implementation in `madebyme/`.
 This project follows Ali Elzoheiry's **Smart Enemy AI** course.
 
 - **Course instructor:** Ali Elzoheiry
-- **Current progress:** Part 8
+- **Current progress:** Part 8.5
 - **Learning approach:** Implementing course concepts, testing gameplay behavior, and debugging issues as development progresses.
 
 This repository documents my learning and implementation progress while following the course.
