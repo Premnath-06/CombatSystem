@@ -6,7 +6,7 @@ I'm using this project to learn and experiment with enemy behavior, AI logic, co
 
 ## 📌 Project Status
 
-**In Development — Currently Following Part 12 of the Course**
+**In Development — Currently Following Part 13 of the Course**
 
 This project is still under development. Features and systems are being implemented and tested as I progress through the course.
 
@@ -60,7 +60,7 @@ These resources support the main implementation in `madebyme/`.
 This project follows Ali Elzoheiry's **Smart Enemy AI** course.
 
 - **Course instructor:** Ali Elzoheiry
-- **Current progress:** Part 11
+- **Current progress:** Part 12
 - **Learning approach:** Implementing course concepts, testing gameplay behavior, and debugging issues as development progresses.
 
 This repository documents my learning and implementation progress while following the course.
@@ -95,7 +95,7 @@ See the [GitHub Issues](../../issues) page for updates and troubleshooting.
 - [x] Continue implementing features beyond Part 11.
 - [x] Investigate and fix player ragdoll behavior.
 - [x] Investigate and fix enemy ragdoll behavior.
-- [ ] Document additional features, fixes, and progress.
+- [x] Document additional features, fixes, and progress.
 
 ## 📸 Screenshots and Videos
 
